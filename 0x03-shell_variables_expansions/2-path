@@ -1,2 +1,2 @@
-#!bash/bin
-export PATH:/action
+#!/bin /bash
+echo "hello $USER"
